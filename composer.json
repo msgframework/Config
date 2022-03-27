@@ -1,0 +1,22 @@
+{
+  "name": "msgframework/route",
+  "description": "description",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Msgframework\\Lib\\Route\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "msgtech",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "symfony/config": "^5.4",
+    "symfony/yaml": "^5.4",
+    "msgframework/registry": "^1.0"
+  }
+}
