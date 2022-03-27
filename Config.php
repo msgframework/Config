@@ -18,6 +18,7 @@ class Config extends Registry
     {
         parent::__construct();
         $this->configuration = $configuration;
+        $this->cache_dir = $cache_dir;
     }
 
     public function load(string $name, string $key, array $directories = array()) : void
