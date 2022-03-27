@@ -1,16 +1,16 @@
 {
-  "name": "msgframework/route",
+  "name": "msgframework/config",
   "description": "description",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Msgframework\\Lib\\Route\\": ""
+      "Msgframework\\Lib\\Config\\": ""
     }
   },
   "authors": [
     {
-      "name": "msgtech",
-      "email": "email@example.com"
+      "name": "MSGroupFM",
+      "email": "admin@msgru.com"
     }
   ],
   "require": {

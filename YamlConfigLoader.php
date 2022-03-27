@@ -1,6 +1,6 @@
 <?php
 
-namespace RocketCMS\Configuration;
+namespace Msgframework\Lib\Config;
 
 use Symfony\Component\Config\Loader\FileLoader;
 use Symfony\Component\Yaml\Yaml;

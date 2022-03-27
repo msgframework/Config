@@ -1,6 +1,6 @@
 <?php
 
-namespace RocketCMS\Configuration;
+namespace Msgframework\Lib\Config;
 
 use Msgframework\Lib\Registry\Registry;
 use Symfony\Component\Config\ConfigCache;
